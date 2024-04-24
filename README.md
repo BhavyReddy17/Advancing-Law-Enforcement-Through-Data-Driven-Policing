@@ -28,7 +28,7 @@ The project leverages a sophisticated architecture that includes comprehensive s
 - `results/`: Visualizations and result summaries.
 
 ## 🛠️ Setup Instructions
-To get this project up and running on your local machine, follow these steps:
+To get this project up and running on your local machine, follow these steps:   
 
 1. **Clone the repository:**
    ```bash
