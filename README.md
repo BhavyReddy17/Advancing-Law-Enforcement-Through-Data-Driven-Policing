@@ -31,6 +31,6 @@ The project leverages a sophisticated architecture that includes comprehensive s
 To get this project up and running on your local machine, follow these steps:   
 
 1. **Clone the repository:**
-   ```bash
+   ```bash    
    git clone https://github.com/yourusername/project-insight.git
    cd project-insight
