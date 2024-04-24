@@ -4,7 +4,9 @@
 This project, "Project Insight," focuses on advancing law enforcement through data-driven analysis of traffic stop data. Utilizing the power of PySpark, we dive deep into the nuances of gender disparities, search practices, stop durations, and age-related patterns to foster fair practices and enhance public safety.
 
 ## 👨‍🏫 Instructor
-- **Instructor Name:** [Instructor's Full Name Here]
+- **Instructor Name:** **Dr.Ajay Bandi**
+## 👨‍🏫 Graduate Asistant
+-   Name : Pinjari,Jameer Babu
 
 ## 👥 Authors
 - 🧑‍💼 **Bhavya Reddy Sanku**
