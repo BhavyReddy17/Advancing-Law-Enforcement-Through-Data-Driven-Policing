@@ -6,7 +6,7 @@ This project, "Project Insight," focuses on advancing law enforcement through da
 ## 👨‍🏫 Instructor
 - **Instructor Name:** **Dr.Ajay Bandi**
 ## 👨‍🏫 Graduate Asistant
--   Name : Pinjari,Jameer Babu
+-   **Name** : **Jameer Babu Pinjari**
 
 ## 👥 Authors
 - 🧑‍💼 **Bhavya Reddy Sanku**
