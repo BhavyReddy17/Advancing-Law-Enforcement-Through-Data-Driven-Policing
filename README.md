@@ -4,7 +4,7 @@
 This project,  focuses on advancing law enforcement through data-driven analysis of traffic stop data. Utilizing the power of PySpark, we dive deep into the nuances of gender disparities, search practices, stop durations, and age-related patterns to foster fair practices and enhance public safety.
 
 ## 👨‍🏫 Instructor
-- **Instructor Name:** **Dr.Ajay Bandi**
+- **Instructor Name:** **Dr.Ajay Bandi**  
 ## 👨‍🏫 Graduate Assistant
 -   **Name** : **Jameer Babu Pinjari**
 
